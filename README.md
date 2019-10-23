@@ -1,5 +1,8 @@
-Slides from our 50th anniversary meeting. Talk: Domain Driven Design in Practice by Michael Mirold
+50th anniversary meeting of Java User Group Saarland.
 ----
+
+# Talk
+* [Domain Driven Design in Practice by Michael Mirold](#)
 
 # Links
 * [Slides of the short review of 6 years of Java User Group Saarland](Agenda_Rückschau_50.Treffen.pdf)
