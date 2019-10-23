@@ -2,7 +2,7 @@
 ----
 
 # Talk
-* [Domain Driven Design in Practice by Michael Mirold](#)
+* [Domain Driven Design in Practice by Michael Mirold](2019-10-22_meetup_ddd.pdf)
 
 # Links
 * [Slides of the short review of 6 years of Java User Group Saarland](Agenda_Rückschau_50.Treffen.pdf)
